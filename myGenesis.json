@@ -7,6 +7,6 @@
       "byzantiumBlock": 0
    },
    "difficulty": "10",
-   "gasLimit": "2000",
+   "gasLimit": "2000000",
    "alloc": {}
  }
