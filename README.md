@@ -1,7 +1,6 @@
 # Ballot Project
 
 ## Links
-========
 
 * [How To: Create Your Own Private Ethereum Blockchain](https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f)
 * [Ethereum Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/index.html)
