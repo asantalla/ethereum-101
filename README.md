@@ -4,6 +4,7 @@
 
 #### General
 
+* [Ethereum Overview](http://truffleframework.com/tutorials/ethereum-overview)
 * [How To: Create Your Own Private Ethereum Blockchain](https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f)
 * [Ethereum Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/index.html)
 * [Smart Contract - Ballot Example](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.19+commit.c4cbbb05.js)
