@@ -18,7 +18,11 @@
 * [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 * [Command line tools for the Ethereum Network](https://www.ethereum.org/cli)
 * [Solidity documentation](https://solidity.readthedocs.io/en/develop/)
-* [Ethereum on a iPhone](https://decentralize.today/ethereum-on-a-iphone-9ca7b41a28bd)
+* [Ethereum on an iPhone](https://decentralize.today/ethereum-on-a-iphone-9ca7b41a28bd)
+
+#### Blockchain
+
+* [Blockchain Basics](http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
 #### Smart Contracts
 
