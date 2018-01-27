@@ -30,3 +30,8 @@
 * [Ganache: One Click Blockchain](http://truffleframework.com/ganache/)
 * [Ethereum Wallet and Dapp Browser for iOS](https://github.com/ethers-io/EthersWallet-ios)
 * [The mobile Ethereum client](https://status.im)
+
+#### Libraries
+
+* [web3j: Java and Android library for working with Smart Contracts and integrating with Ethereum clients](https://docs.web3j.io/)
+* [web3j on Github](https://github.com/web3j/web3j)
