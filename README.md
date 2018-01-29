@@ -17,8 +17,11 @@
 * [Here’s how I built a private blockchain network, and you can too](https://hackernoon.com/heres-how-i-built-a-private-blockchain-network-and-you-can-too-62ca7db556c0)
 * [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 * [Command line tools for the Ethereum Network](https://www.ethereum.org/cli)
-* [Solidity documentation](https://solidity.readthedocs.io/en/develop/)
 * [Ethereum on an iPhone](https://decentralize.today/ethereum-on-a-iphone-9ca7b41a28bd)
+
+#### Solidity
+* [Solidity Documentation](https://solidity.readthedocs.io/en/develop/)
+* [Solidity Documentation - Español](http://solidity-es.readthedocs.io/es/latest/)
 
 #### Blockchain
 
