@@ -18,6 +18,8 @@
 * [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 * [Command line tools for the Ethereum Network](https://www.ethereum.org/cli)
 * [Ethereum on an iPhone](https://decentralize.today/ethereum-on-a-iphone-9ca7b41a28bd)
+* [Ethereum Wiki](https://github.com/ethereum/wiki/wiki)
+* [Ethereum Design Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
 
 #### Solidity
 * [Solidity Documentation](https://solidity.readthedocs.io/en/develop/)
@@ -31,6 +33,7 @@
 
 * [Hello World!](https://www.ethereum.org/greeter)
 * [Build Your First Smart Contract](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca)
+* [Optimize Smart Contract Gas Price](https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract)
 
 #### Ethereum Clients
 
