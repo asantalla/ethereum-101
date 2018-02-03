@@ -1,3 +1,7 @@
+# Geth client
 *.log
-
 data/
+
+# Smart Contracts
+*.abi
+*.bin
