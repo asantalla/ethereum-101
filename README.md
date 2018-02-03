@@ -1,4 +1,4 @@
-# Ballot Project
+# Ethereum 101
 
 ## Links
 
